@@ -43,6 +43,8 @@ export default {
 
   serverMiddleware: ["~/middleware/redirects.ts"],
 
+  target: "static",
+
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
     postcss: {

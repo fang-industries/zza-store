@@ -34,7 +34,8 @@
 (iii) Items purchases cannot be subjected to refund at any time and any reason at all.<br/>
 (iv)  Purchases must be paid for before the item is received by the customer.<br/>
 (v)   Refusal of payment will subject to an immediate forfeit/revoke of the purchase.<br/>
-(vi)  Exchange rates from **Currency Units** to **Minecraft Items** may be subjected to change at any times via the *#jasonforowner* Faction Hierarchy.
+(vi)  Exchange rates from **Currency Units** to **Minecraft Items** may be subjected to change at any times via the *#jasonforowner* Faction Hierarchy. <br/>
+(vii) Purchases **MUST** be payed in full amount.
 
 ## 5. Force Maejure 
 

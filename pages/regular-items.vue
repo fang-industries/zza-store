@@ -14,13 +14,13 @@
             class="flex rounded-t-xl border-x-2 border-t-2 border-gray-500 px-2 py-4 md:block md:p-2"
           >
             <img
-              class="mr-4 aspect-square h-14 w-14 md:hidden"
+              class="mr-4 aspect-square h-14 w-14 md:hidden rounded-xl"
               :src="'https://raw.githubusercontent.com/fang-industries/zza-store/assets/' + item.img"
             />
             <div class="my-auto grid gap-4 md:grid-cols-3 md:gap-6">
               <div class="my-auto flex">
                 <img
-                  class="mr-4 hidden aspect-square h-14 w-14 md:block"
+                  class="mr-4 hidden aspect-square h-14 w-14 md:block rounded-xl"
                   style="image-rendering: pixelated"
                   :src="'https://raw.githubusercontent.com/fang-industries/zza-store/assets/' + item.img"
                 />
@@ -56,13 +56,13 @@
             class="flex rounded-xl border-2 border-gray-500 px-2 py-4 md:block md:p-2"
           >
             <img
-              class="mr-4 aspect-square h-14 w-14 md:hidden"
+              class="mr-4 aspect-square h-14 w-14 md:hidden rounded-xl"
               :src="'https://raw.githubusercontent.com/fang-industries/zza-store/assets/' + item.img"
             />
             <div class="my-auto grid gap-4 md:grid-cols-3 md:gap-6">
               <div class="my-auto flex">
                 <img
-                  class="mr-4 hidden aspect-square h-14 w-14 md:block"
+                  class="mr-4 hidden aspect-square h-14 w-14 md:block rounded-xl"
                   style="image-rendering: pixelated"
                   :src="'https://raw.githubusercontent.com/fang-industries/zza-store/assets/' + item.img"
                 />

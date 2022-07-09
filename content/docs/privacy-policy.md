@@ -17,7 +17,7 @@
 (iv)    Purchase History <br/>
 
 ## 2. Access to your Personal Information
-*#jasonforowner* will not grant access to Personal Information to anyone but the respective customer. Only the *#jasonforowner* Hierarchy has access to said Information and any attempt to breach the Information will subject to an immediate forfeit/revoke of the breacher's Access to *#jasonforowner* Faction Store.
+*#jasonforowner* will not grant access to Personal Information to anyone but the respective customer. Only the *#jasonforowner* Faction Hierarchy has access to said Information and any attempt to breach the Information will subject to an immediate forfeit/revoke of the breacher's Access to *#jasonforowner* Faction Store.
 
 ## 3. Security of your Personal Information
 *#jasonforowner* keeps the Personal Informationfrom its customers safe from any use without proper access, though *#jasonforowner* will not name the exact location of said information.
@@ -27,4 +27,6 @@
 
 ## 5. Sharing your Personal Information
 *#jasonforowner* will not take responsibility of a leak if its customers shared their Personal Information themselves. This policy does not apply to that situation.
+
+***Note: The Privacy Policy may be subjected to change at any times by the #jasonforowner Faction Hierarchy***
 

@@ -1,10 +1,9 @@
 <template>
   <div class="space-y-8">
     <div class="space-y-4">
-      <h1 class="text-center text-4xl font-bold md:text-left">regular items</h1>
+      <h1 class="text-center text-4xl font-bold md:text-left">high-end items</h1>
       <p>
-        this list contains the pricing and stock for regular, common items —
-        perfect if you're too lazy to get a specific item!
+        need something that isn't as easy to grind? you've come to the right place! come check out our products and prices here.
       </p>
     </div>
     <div class="space-y-4">
@@ -20,7 +19,7 @@
             <div class="my-auto grid gap-4 md:grid-cols-3 md:gap-6">
               <div class="my-auto flex">
                 <img
-                  class="mr-4 hidden aspect-square h-14 w-14 md:block rounded-xl my-auto"
+                  class="mr-4 hidden aspect-square h-14 w-14 md:block rounded-xl"
                   style="image-rendering: pixelated"
                   :src="'https://raw.githubusercontent.com/fang-industries/zza-store/assets/' + item.img"
                 />
@@ -62,7 +61,7 @@
             <div class="my-auto grid gap-4 md:grid-cols-3 md:gap-6">
               <div class="my-auto flex">
                 <img
-                  class="mr-4 hidden aspect-square h-14 w-14 md:block rounded-xl"
+                  class="mr-4 hidden aspect-square h-14 w-14 md:block rounded-xl my-auto"
                   style="image-rendering: pixelated"
                   :src="'https://raw.githubusercontent.com/fang-industries/zza-store/assets/' + item.img"
                 />
@@ -96,7 +95,7 @@
 <script>
 export default {
   async asyncData({ $content, params }) {
-    const items = await $content("regular-items").fetch();
+    const items = await $content("high-end").fetch();
     return { items };
   },
 };

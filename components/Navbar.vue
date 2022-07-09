@@ -7,39 +7,39 @@
         <p
           class="cursor-default underline decoration-purple-600 decoration-2 dark:decoration-purple-400"
           v-if="$route.path.startsWith('/regular-items') || $route.path === '/'"
-          >regular items</p
+          >Regular Items</p
         >
         <nuxt-link
           to="regular-items"
           class="decoration-gray-600 decoration-2 hover:underline dark:decoration-gray-300"
           v-else
-          >regular items</nuxt-link
+          >Regular Items</nuxt-link
         >
       </div>
       <div>
         <p
           class="cursor-default underline decoration-purple-600 decoration-2 dark:decoration-purple-300"
           v-if="$route.path.startsWith('/high-end')"
-          >high-end items</p
+          >High-end Items</p
         >
         <nuxt-link
           to="high-end"
           class="decoration-gray-600 decoration-2 hover:underline dark:decoration-gray-300"
           v-else
-          >high-end items</nuxt-link
+          >High-end Items</nuxt-link
         >
       </div>
       <div>
         <p
           class="cursor-default underline decoration-purple-600 decoration-2 dark:decoration-purple-300"
           v-if="$route.path.startsWith('/enchanted-books')"
-          >enchanted books</p
+          >Enchanted Books</p
         >
         <nuxt-link
           to="enchanted-books"
           class="decoration-gray-600 decoration-2 hover:underline dark:decoration-gray-300"
           v-else
-          >enchanted books</nuxt-link
+          >Enchanted Books</nuxt-link
         >
       </div>
     </div>

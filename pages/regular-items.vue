@@ -1,9 +1,9 @@
 <template>
   <div class="space-y-8">
     <div class="space-y-4">
-      <h1 class="text-center text-4xl font-bold md:text-left">regular items</h1>
+      <h1 class="text-center text-4xl font-bold md:text-left">Regular Items</h1>
       <p>
-        this list contains the pricing and stock for regular, common items —
+        This list contains the pricing and stock for regular, common items —
         perfect if you're too lazy to get a specific item!
       </p>
     </div>

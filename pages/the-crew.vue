@@ -1,9 +1,9 @@
 <template>
   <div class="space-y-8">
     <div class="space-y-4">
-      <h1 class="text-center text-4xl font-bold md:text-left">the crew</h1>
+      <h1 class="text-center text-4xl font-bold md:text-left">The crew</h1>
       <p>
-        this website was made with the free time of our contributors. we'd like
+        This website was made with the free time of our contributors. We'd like
         to thank them with this page!
       </p>
     </div>

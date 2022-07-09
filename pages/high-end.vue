@@ -1,9 +1,9 @@
 <template>
   <div class="space-y-8">
     <div class="space-y-4">
-      <h1 class="text-center text-4xl font-bold md:text-left">high-end items</h1>
+      <h1 class="text-center text-4xl font-bold md:text-left">High-end Items</h1>
       <p>
-        need something that isn't as easy to grind? you've come to the right place! come check out our products and prices here.
+        Need something that isn't as easy to grind? You've come to the right place! Come check out our catalog of products and prices here.
       </p>
     </div>
     <div class="space-y-4">

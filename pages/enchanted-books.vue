@@ -3,11 +3,11 @@
     <div class="space-y-8">
       <div class="space-y-4">
         <h1 class="text-center text-4xl font-bold md:text-left">
-          enchanted books
+          Enchanted Books
         </h1>
         <p>
-          missing the one last mending book for your boots? or perhaps that
-          efficiency you need for your hoe? we've got you covered!
+          Missing the one last mending book for your boots? Or perhaps that
+          efficiency you need for your hoe? We've got you covered!
         </p>
       </div>
       <div class="space-y-4">
@@ -111,10 +111,10 @@
     <div class="space-y-8">
       <div class="space-y-4">
         <h1 class="text-center text-4xl font-bold md:text-left">
-          book bundles
+          Book Bundles
         </h1>
         <p>
-          trying to buy multiple enchanting books at once? not to worry, there's
+          Trying to buy multiple enchanting books at once? Not to worry, there's
           probably a deal here for you!
         </p>
       </div>

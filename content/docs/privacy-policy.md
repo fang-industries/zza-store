@@ -1,15 +1,8 @@
 <!-- thanks tim! -->
 
-# #jasonforowner Faction Store Privacy Policy
+# Master Fang's Dark Market Privacy Policy
 
-***#jasonforowner* is committed to securing and protecting the privacy of all customers of *#jasonforowner* Faction Store.**
-
-<!-- what we do:
-    - get mc and dc Username
-    - throw them onto a google sheets
-    but we dont allow other people to just get the info (because that's very bad and we are good)
- -->
-
+***#jasonforowner* is committed to securing and protecting the privacy of all *Master Fang's Dark Market*'s clients.**
 ## 1. Personal Information Gathered
 (i)     Minecraft Username <br/>
 (ii)    Discord Username <br/>
@@ -17,16 +10,16 @@
 (iv)    Purchase History <br/>
 
 ## 2. Access to your Personal Information
-*#jasonforowner* will not grant access to Personal Information to anyone but the respective customer. Only the *#jasonforowner* Faction Hierarchy has access to said Information and any attempt to breach the Information will subject to an immediate forfeit/revoke of the breacher's Access to *#jasonforowner* Faction Store.
+*#jasonforowner* will not grant access to Personal Information to anyone but the respective client. Only the *#jasonforowner* faction hierarchy has access to said information and any attempt to breach the information will subject to an immediate forfeit/revoke of the breacher's Access to *Master Fang's Dark Market*.
 
 ## 3. Security of your Personal Information
-*#jasonforowner* keeps the Personal Informationfrom its customers safe from any use without proper access, though *#jasonforowner* will not name the exact location of said information.
+*#jasonforowner* keeps the personal information from its clients safe from any use without proper access, though *#jasonforowner* will not name the exact location of said information.
 
 ## 4. Use of your Personal Information
-*#jasonforowner* uses its customer's Personal Information to track any activities that breaches the *#jasonforowner* Faction Store Terms & Condition such as using Items Purchased in the *#jasonforowner* Faction Store as a supply in a **Competing Service**. 
+*#jasonforowner* uses its client's personal information to track any activities that breaches the *Master Fang's Dark Market* Terms & Condition such as using items purchased in the *Master Fang's Dark Market* as a supply in a **competing service**. 
 
 ## 5. Sharing your Personal Information
-*#jasonforowner* will not take responsibility of a leak if its customers shared their Personal Information themselves. This policy does not apply to that situation.
+*#jasonforowner* will not take responsibility of a leak if its clients shared their personal information themselves. This policy does not apply to that situation.
 
 ***Note: The Privacy Policy may be subjected to change at any times by the #jasonforowner Faction Hierarchy***
 

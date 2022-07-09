@@ -5,7 +5,7 @@
     <div class="flex space-x-8">
       <div>
         <p
-          class="cursor-default underline decoration-purple-600 decoration-2 dark:decoration-purple-300"
+          class="cursor-default underline decoration-purple-600 decoration-2 dark:decoration-purple-400"
           v-if="$route.path.startsWith('/regular-items') || $route.path === '/'"
           >regular items</p
         >

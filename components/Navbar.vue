@@ -42,6 +42,19 @@
           >Enchanted Books</nuxt-link
         >
       </div>
+      <div>
+        <p
+          class="cursor-default underline decoration-purple-600 decoration-2 dark:decoration-purple-300"
+          v-if="$route.path.startsWith('/price-converter')"
+          >Price Converter</p
+        >
+        <nuxt-link
+          to="price-converter"
+          class="decoration-gray-600 decoration-2 hover:underline dark:decoration-gray-300"
+          v-else
+          >Price Converter</nuxt-link
+        >
+      </div>
     </div>
   </div>
 </template>

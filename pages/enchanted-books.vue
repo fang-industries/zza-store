@@ -127,23 +127,19 @@
               <img
                 class="mr-4 aspect-square h-14 w-14 rounded-xl md:hidden"
                 style="image-rendering: pixelated"
-                :src="
-                  'https://raw.githubusercontent.com/fang-industries/zza-store/assets/enchanted-books/' +
-                  bundle.img
-                "
+                src="https://raw.githubusercontent.com/fang-industries/zza-store/assets/item/bundle.png"
+
               />
-              <div class="my-auto grid gap-4 md:grid-cols-3 md:gap-6">
+              <div class="my-auto grid gap-4 md:grid-cols-2 md:gap-6">
                 <div class="my-auto flex">
                   <img
                     class="mr-4 hidden aspect-square h-14 w-14 rounded-xl md:block"
                     style="image-rendering: pixelated"
-                    :src="
-                      'https://raw.githubusercontent.com/fang-industries/zza-store/assets/enchanted-books/' +
-                      bundle.img
-                    "
+                src="https://raw.githubusercontent.com/fang-industries/zza-store/assets/item/bundle.png"
+
                   />
                   <div class="my-auto flex flex-col">
-                    <p class="font-mono text-sm">enchantment</p>
+                    <p class="font-mono text-sm">enchantments</p>
                     <p>
                       {{ bundle.name }}
                     </p>
@@ -153,12 +149,6 @@
                   <p class="font-mono text-sm">price</p>
                   <p>
                     {{ bundle.price }}
-                  </p>
-                </div>
-                <div class="my-auto">
-                  <p class="font-mono text-sm">current stock</p>
-                  <p>
-                    {{ bundle.stock }}
                   </p>
                 </div>
               </div>
@@ -178,7 +168,7 @@
                 style="image-rendering: pixelated"
                 src="https://raw.githubusercontent.com/fang-industries/zza-store/assets/item/bundle.png"
               />
-              <div class="my-auto grid gap-4 md:grid-cols-3 md:gap-6">
+              <div class="my-auto grid gap-4 md:grid-cols-2 md:gap-6">
                 <div class="my-auto flex">
                   <img
                     class="my-auto mr-4 hidden aspect-square h-14 w-14 rounded-xl md:block"
@@ -186,7 +176,7 @@
                     src="https://raw.githubusercontent.com/fang-industries/zza-store/assets/item/bundle.png"
                   />
                   <div class="my-auto flex flex-col">
-                    <p class="font-mono text-sm">enchantment</p>
+                    <p class="font-mono text-sm">enchantments</p>
                     <p>
                       {{ bundle.name }}
                     </p>
@@ -196,12 +186,6 @@
                   <p class="font-mono text-sm">price</p>
                   <p>
                     {{ bundle.price }}
-                  </p>
-                </div>
-                <div class="my-auto">
-                  <p class="font-mono text-sm">current stock</p>
-                  <p>
-                    {{ bundle.stock }}
                   </p>
                 </div>
               </div>

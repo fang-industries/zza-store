@@ -3,6 +3,10 @@ export default function (req: { url: string }, res: { writeHead: (arg0: number, 
         {
             from: "/",
             to: "/regular-items"
+        },
+        {
+            from: "/docs",
+            to: "/regular-items"
         }
     ]
 

@@ -1,6 +1,6 @@
 <template>
   <div
-    class="flex justify-center text-center bg-gray-200 bg-opacity-50 dark:bg-opacity-50 p-4 backdrop-blur-lg dark:bg-gray-800 dark:text-gray-200 lg:p-2"
+    class="flex justify-center text-center bg-gray-200 bg-opacity-50 dark:bg-opacity-50 p-4 backdrop-blur-lg dark:bg-gray-800 dark:text-gray-200 lg:p-2 border-b dark:border-gray-700 border-gray-300"
   >
     <div class="flex space-x-8">
       <div>

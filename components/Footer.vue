@@ -10,22 +10,22 @@
             >the crew</nuxt-link
           >
         </p>
-        <p class="text-sm">
+        <p class="text-sm dark:text-gray-400 text-gray-700">
           copyright © Pix3l_ 2022 -
           <nuxt-link
             to="licenses"
-            class="text-purple-600 hover:underline dark:text-purple-300"
+            class="text-purple-600 hover:underline dark:text-purple-400"
             >license notice</nuxt-link
           >
         </p>
       </div>
       <div class="hidden flex-col text-right md:flex">
         <p class="font-medium">this website is open-source!</p>
-        <p class="text-sm">
+        <p class="text-sm dark:text-gray-400 text-gray-700">
           come take a look at the code
           <a
             href="https://github.com/fang-industries/zza-store"
-            class="text-purple-600 hover:underline dark:text-purple-300"
+            class="text-purple-600 hover:underline dark:text-purple-400"
             >here</a
           >
         </p>

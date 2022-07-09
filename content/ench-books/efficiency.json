@@ -1,6 +1,7 @@
 {
     "name": "efficiency iv",
-    "price": "2 netherite ingots",
+    "price": "4 netherite ingots",
     "stock": "n/a",
-    "img": "efficiency4.png"
+    "img": "efficiency4.png",
+    "note": "if bought together with efficiency, you get 1 netherite off!"
 }

@@ -1,6 +1,7 @@
 {
     "name": "mending",
-    "price": "10 netherite ingots",
+    "price": "5 netherite ingots",
     "stock": "n/a",
-    "img": "mending.png"
+    "img": "mending.png",
+    "note": "if bought together with efficiency, you get 1 netherite off!"
 }

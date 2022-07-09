@@ -2,5 +2,6 @@
     "name": "mushroom stew",
     "ppi": "1u / 27 items",
     "stock": "n/a",
-    "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/e0/Mushroom_Stew_JE2_BE2.png"
+    "img": "https://raw.githubusercontent.com/fang-industries/zza-store/assets/item/mushroom_stew.png",
+    "note": "you can order a shulker to go with it for an additional 1hu"
 }

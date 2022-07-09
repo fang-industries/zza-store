@@ -5,7 +5,7 @@
         <p class="font-medium">
           Made with 💜 <span class="font-normal text-sm dark:text-gray-300 text-gray-800">(and stress)</span> by
           <nuxt-link
-            to="the-crew"
+            to="/the-crew"
             class="text-purple-600 hover:underline dark:text-purple-300"
             >the crew</nuxt-link
           >.
@@ -13,7 +13,7 @@
         <p class="text-sm dark:text-gray-400 text-gray-700">
           Copyright © Pix3l_ 2022 -
           <nuxt-link
-            to="licenses"
+            to="/licenses"
             class="text-purple-600 hover:underline dark:text-purple-400"
             >License Notice</nuxt-link
           >

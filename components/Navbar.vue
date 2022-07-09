@@ -10,7 +10,7 @@
           >Regular Items</p
         >
         <nuxt-link
-          to="regular-items"
+          to="/regular-items"
           class="decoration-gray-600 decoration-2 hover:underline dark:decoration-gray-300"
           v-else
           >Regular Items</nuxt-link
@@ -23,7 +23,7 @@
           >High-end Items</p
         >
         <nuxt-link
-          to="high-end"
+          to="/high-end"
           class="decoration-gray-600 decoration-2 hover:underline dark:decoration-gray-300"
           v-else
           >High-end Items</nuxt-link
@@ -36,7 +36,7 @@
           >Enchanted Books</p
         >
         <nuxt-link
-          to="enchanted-books"
+          to="/enchanted-books"
           class="decoration-gray-600 decoration-2 hover:underline dark:decoration-gray-300"
           v-else
           >Enchanted Books</nuxt-link
@@ -49,7 +49,7 @@
           >Price Converter</p
         >
         <nuxt-link
-          to="price-converter"
+          to="/price-converter"
           class="decoration-gray-600 decoration-2 hover:underline dark:decoration-gray-300"
           v-else
           >Price Converter</nuxt-link

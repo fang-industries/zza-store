@@ -2,6 +2,6 @@
     "name": "mushroom stew",
     "ppi": "1u / 27 items",
     "stock": "n/a",
-    "img": "https://raw.githubusercontent.com/fang-industries/zza-store/assets/item/mushroom_stew.png",
+    "img": "item/mushroom_stew.png",
     "note": "you can order a shulker to go with it for an additional 1hu"
 }

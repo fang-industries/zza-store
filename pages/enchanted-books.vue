@@ -35,20 +35,20 @@
                     "
                   />
                   <div class="my-auto flex flex-col">
-                    <p class="font-mono text-sm">enchantment</p>
+                    <p class="font-mono text-sm dark:text-gray-400 text-gray-600">enchantment</p>
                     <p>
                       {{ book.name }}
                     </p>
                   </div>
                 </div>
                 <div class="my-auto">
-                  <p class="font-mono text-sm">price</p>
+                  <p class="font-mono text-sm dark:text-gray-400 text-gray-600">price</p>
                   <p>
                     {{ book.price }}
                   </p>
                 </div>
                 <div class="my-auto">
-                  <p class="font-mono text-sm">current stock</p>
+                  <p class="font-mono text-sm dark:text-gray-400 text-gray-600">current stock</p>
                   <p>
                     {{ book.stock }}
                   </p>
@@ -84,20 +84,20 @@
                     "
                   />
                   <div class="my-auto flex flex-col">
-                    <p class="font-mono text-sm">enchantment</p>
+                    <p class="font-mono text-sm dark:text-gray-400 text-gray-600">enchantment</p>
                     <p>
                       {{ book.name }}
                     </p>
                   </div>
                 </div>
                 <div class="my-auto">
-                  <p class="font-mono text-sm">price</p>
+                  <p class="font-mono text-sm dark:text-gray-400 text-gray-600">price</p>
                   <p>
                     {{ book.price }}
                   </p>
                 </div>
                 <div class="my-auto">
-                  <p class="font-mono text-sm">current stock</p>
+                  <p class="font-mono text-sm dark:text-gray-400 text-gray-600">current stock</p>
                   <p>
                     {{ book.stock }}
                   </p>
@@ -139,14 +139,14 @@
 
                   />
                   <div class="my-auto flex flex-col">
-                    <p class="font-mono text-sm">enchantments</p>
+                    <p class="font-mono text-sm dark:text-gray-400 text-gray-600">enchantments</p>
                     <p>
                       {{ bundle.name }}
                     </p>
                   </div>
                 </div>
                 <div class="my-auto">
-                  <p class="font-mono text-sm">price</p>
+                  <p class="font-mono text-sm dark:text-gray-400 text-gray-600">price</p>
                   <p>
                     {{ bundle.price }}
                   </p>
@@ -176,14 +176,14 @@
                     src="https://raw.githubusercontent.com/fang-industries/zza-store/assets/item/bundle.png"
                   />
                   <div class="my-auto flex flex-col">
-                    <p class="font-mono text-sm">enchantments</p>
+                    <p class="font-mono text-sm dark:text-gray-400 text-gray-600">enchantments</p>
                     <p>
                       {{ bundle.name }}
                     </p>
                   </div>
                 </div>
                 <div class="my-auto">
-                  <p class="font-mono text-sm">price</p>
+                  <p class="font-mono text-sm dark:text-gray-400 text-gray-600">price</p>
                   <p>
                     {{ bundle.price }}
                   </p>

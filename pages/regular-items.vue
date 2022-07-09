@@ -32,20 +32,20 @@
                   "
                 />
                 <div class="my-auto flex flex-col">
-                  <p class="font-mono text-sm">item</p>
+                  <p class="font-mono text-sm dark:text-gray-400 text-gray-600">item</p>
                   <p>
                     {{ item.name }}
                   </p>
                 </div>
               </div>
               <div class="my-auto">
-                <p class="font-mono text-sm">price per item</p>
+                <p class="font-mono text-sm dark:text-gray-400 text-gray-600">price per item</p>
                 <p>
                   {{ item.ppi }}
                 </p>
               </div>
               <div class="my-auto">
-                <p class="font-mono text-sm">current stock</p>
+                <p class="font-mono text-sm dark:text-gray-400 text-gray-600">current stock</p>
                 <p>
                   {{ item.stock }}
                 </p>
@@ -81,20 +81,20 @@
                   "
                 />
                 <div class="my-auto flex flex-col">
-                  <p class="font-mono text-sm">item</p>
+                  <p class="font-mono text-sm dark:text-gray-400 text-gray-600">item</p>
                   <p>
                     {{ item.name }}
                   </p>
                 </div>
               </div>
               <div class="my-auto">
-                <p class="font-mono text-sm">price per item</p>
+                <p class="font-mono text-sm dark:text-gray-400 text-gray-600">price per item</p>
                 <p>
                   {{ item.ppi }}
                 </p>
               </div>
               <div class="my-auto">
-                <p class="font-mono text-sm">current stock</p>
+                <p class="font-mono text-sm dark:text-gray-400 text-gray-600">current stock</p>
                 <p>
                   {{ item.stock }}
                 </p>

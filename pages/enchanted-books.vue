@@ -11,44 +11,82 @@
     </div>
     <div class="space-y-4">
       <div v-for="book in books">
-        <div
-          class="flex rounded-xl border-2 border-gray-500 px-2 py-4 md:block md:p-2"
-        >
-          <img
-            class="mr-4 aspect-square h-14 w-14 rounded-xl md:hidden"
-            :src="
-              'https://raw.githubusercontent.com/fang-industries/zza-store/assets/enchanted-books/' +
-              book.img
-            "
-          />
-          <div class="my-auto grid gap-4 md:grid-cols-3 md:gap-6">
-            <div class="my-auto flex">
-              <img
-                class="mr-4 hidden aspect-square h-14 w-14 rounded-xl md:block my-auto"
-                style="image-rendering: pixelated"
-                :src="
-                  'https://raw.githubusercontent.com/fang-industries/zza-store/assets/enchanted-books/' +
-                  book.img
-                "
-              />
-              <div class="my-auto flex flex-col">
-                <p class="font-mono text-sm">enchantment</p>
+               <div v-if="book.note">
+          <div
+            class="flex rounded-t-xl border-x-2 border-t-2 border-gray-500 px-2 py-4 md:block md:p-2"
+          >
+            <img
+              class="mr-4 aspect-square h-14 w-14 md:hidden rounded-xl"
+              :src="'https://raw.githubusercontent.com/fang-industries/zza-store/assets/enchanted-books/' + book.img"
+            />
+            <div class="my-auto grid gap-4 md:grid-cols-3 md:gap-6">
+              <div class="my-auto flex">
+                <img
+                  class="mr-4 hidden aspect-square h-14 w-14 md:block rounded-xl"
+                  style="image-rendering: pixelated"
+                  :src="'https://raw.githubusercontent.com/fang-industries/zza-store/assets/enchanted-books/' + book.img"
+                />
+                <div class="my-auto flex flex-col">
+                  <p class="font-mono text-sm">enchantment</p>
+                  <p>
+                    {{ book.name }}
+                  </p>
+                </div>
+              </div>
+              <div class="my-auto">
+                <p class="font-mono text-sm">price</p>
                 <p>
-                  {{ book.name }}
+                  {{ book.price }}
+                </p>
+              </div>
+              <div class="my-auto">
+                <p class="font-mono text-sm">current stock</p>
+                <p>
+                  {{ book.stock }}
                 </p>
               </div>
             </div>
-            <div class="my-auto">
-              <p class="font-mono text-sm">price</p>
-              <p>
-                {{ book.price }}
-              </p>
-            </div>
-            <div class="my-auto">
-              <p class="font-mono text-sm">current stock</p>
-              <p>
-                {{ book.stock }}
-              </p>
+          </div>
+          <div
+            class="rounded-b-xl border-x-2 border-b-2 border-gray-500 bg-gray-200 px-3 py-1 dark:bg-gray-800"
+          >
+            <p class="my-auto text-sm font-mono">* {{ book.note }}</p>
+          </div>
+        </div>
+        <div v-else>
+          <div
+            class="flex rounded-xl border-2 border-gray-500 px-2 py-4 md:block md:p-2"
+          >
+            <img
+              class="mr-4 aspect-square h-14 w-14 md:hidden rounded-xl"
+              :src="'https://raw.githubusercontent.com/fang-industries/zza-store/assets/enchanted-books/' + book.img"
+            />
+            <div class="my-auto grid gap-4 md:grid-cols-3 md:gap-6">
+              <div class="my-auto flex">
+                <img
+                  class="mr-4 hidden aspect-square h-14 w-14 md:block rounded-xl my-auto"
+                  style="image-rendering: pixelated"
+                  :src="'https://raw.githubusercontent.com/fang-industries/zza-store/assets/enchanted-books/' + book.img"
+                />
+                <div class="my-auto flex flex-col">
+                  <p class="font-mono text-sm">enchantment</p>
+                  <p>
+                    {{ book.name }}
+                  </p>
+                </div>
+              </div>
+              <div class="my-auto">
+                <p class="font-mono text-sm">price</p>
+                <p>
+                  {{ book.price }}
+                </p>
+              </div>
+              <div class="my-auto">
+                <p class="font-mono text-sm">current stock</p>
+                <p>
+                  {{ book.stock }}
+                </p>
+              </div>
             </div>
           </div>
         </div>

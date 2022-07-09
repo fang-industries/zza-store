@@ -2,7 +2,7 @@
   <div class="px-4 py-4 md:px-8 lg:px-64">
     <div class="flex justify-center md:justify-between">
       <div class="flex flex-col md:text-left text-center">
-        <p>
+        <p class="font-medium">
           made with 💜 by
           <nuxt-link
             to="the-crew"
@@ -20,7 +20,7 @@
         </p>
       </div>
       <div class="hidden flex-col text-right md:flex">
-        <p>this website is open-source!</p>
+        <p class="font-medium">this website is open-source!</p>
         <p class="text-sm">
           come take a look at the code
           <a

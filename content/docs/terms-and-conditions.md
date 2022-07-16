@@ -26,6 +26,7 @@
 
 (i)   The *#jasonforowner* faction hierarchy can forfeit/revoke the access of any faction/member at any time and at any reason.<br/>
 (ii)  Expressing any plea to violate the *Master Fang's Dark Market* will result in the immediate forfeit/revoke of store access to said faction/member.<br/>
+(iii) *Master Fang's Dark Market* will remain neutral in any ongoing conflicts between any faction(s) and will remain open to customers that has a valid Store Access at any given time. Purchases made by said customers will be treated as a normal purchase and will not be given any change on the reason of affiliation.
 
 ## 4. Purchases
 
